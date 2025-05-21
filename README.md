@@ -1,5 +1,4 @@
 # Data-structure-and-algo
--updating the code
 
 ## mentioning some git commands
 - git clone https://github.com/sumansantan/Data-structure-and-algo.git
