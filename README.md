@@ -11,3 +11,7 @@
 - git push -u origin main
 - git push after origin is set as -u for upstream
 - git pull # for loading to local repo from remote repo
+- git config --global user.name "Your Name"
+- git config --global user.email "you@example.com"
+- git log "view commit history"
+
